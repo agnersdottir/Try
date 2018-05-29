@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{FA7C3860-DC83-44AE-9DE1-5968B031A951}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".dockerignore">
+    <Files>
+      <File FileName="Try/Dockerfile" Line="1" Column="38" />
+      <File FileName="docker-compose.yml" Line="3" Column="10" />
+      <File FileName="Try/Program.cs" Line="1" Column="1" />
+      <File FileName="Try/Startup.cs" Line="1" Column="1" />
+      <File FileName="Try/appsettings.json" Line="1" Column="1" />
+      <File FileName="Try/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Try/Properties/launchSettings.json" Line="26" Column="47" />
+      <File FileName=".dockerignore" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Try PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

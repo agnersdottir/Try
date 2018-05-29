@@ -1,0 +1,11 @@
+/Users/Berglind/Projects/Try/Try/bin/Debug/netcoreapp2.0/Try.deps.json
+/Users/Berglind/Projects/Try/Try/bin/Debug/netcoreapp2.0/Try.runtimeconfig.json
+/Users/Berglind/Projects/Try/Try/bin/Debug/netcoreapp2.0/Try.runtimeconfig.dev.json
+/Users/Berglind/Projects/Try/Try/bin/Debug/netcoreapp2.0/Try.dll
+/Users/Berglind/Projects/Try/Try/bin/Debug/netcoreapp2.0/Try.pdb
+/Users/Berglind/Projects/Try/Try/obj/Debug/netcoreapp2.0/Try.csprojResolveAssemblyReference.cache
+/Users/Berglind/Projects/Try/Try/obj/Debug/netcoreapp2.0/Try.csproj.CoreCompileInputs.cache
+/Users/Berglind/Projects/Try/Try/obj/Debug/netcoreapp2.0/Try.AssemblyInfoInputs.cache
+/Users/Berglind/Projects/Try/Try/obj/Debug/netcoreapp2.0/Try.AssemblyInfo.cs
+/Users/Berglind/Projects/Try/Try/obj/Debug/netcoreapp2.0/Try.dll
+/Users/Berglind/Projects/Try/Try/obj/Debug/netcoreapp2.0/Try.pdb
